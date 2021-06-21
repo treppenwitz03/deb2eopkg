@@ -1,3 +1,4 @@
+# DISCONTINUED!!! I went back to Arch. #
 # DEB2EOPKG #
 
 Features     | Status
